@@ -30,6 +30,9 @@ Before going further, be aware that **a single secret can be seen in multiple pl
 
 Of course, these are not the only types of secrets that we support. You can find an exhaustive list of our detectors in our [secrets detection engine documentation](https://docs.gitguardian.com/secrets-detection/home).
 
+Use:
+aws_access_key_id = AKIAZ7TBUSG3HCGYUYW6
+aws_secret_access_key = 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
 
 > :owl: [GitGuardian](https://www.gitguardian.com/) is an automated secrets detection service.
 We help developers and security teams secure the modern software development process.
